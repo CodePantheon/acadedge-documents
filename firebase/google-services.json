@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11202968921",
+    "firebase_url": "https://acadedge-app.firebaseio.com",
+    "project_id": "acadedge-app",
+    "storage_bucket": "acadedge-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11202968921:android:4466d19030a0b281dd6048",
+        "android_client_info": {
+          "package_name": "com.acadedge.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11202968921-agt21ckq6985bjc7ii6fes74l8ktutqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCym8hRm0dk-yOz7UzNZvAbh_AhTGZjqXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11202968921-agt21ckq6985bjc7ii6fes74l8ktutqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
